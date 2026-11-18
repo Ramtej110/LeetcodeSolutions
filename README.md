@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ramtej110/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ramtej110/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
